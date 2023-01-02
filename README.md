@@ -1,3 +1,1 @@
-# micard
-DevCard Project: 
-![img.png](img.png)
+# sample project in flutter - TUMUSX
